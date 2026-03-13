@@ -8,7 +8,7 @@ This project focuses on enhancing the monitoring and forecasting of external gra
 * **Predictive Analytics:** Built machine learning models to forecast future grant volumes and funding trends.
 * **Data Optimization:** Processed and structured 5 years (2019-2024) of historical grant data to identify key funding drivers.
 
-## 🛠️ Tech Stack & Methodology
+##  Tech Stack & Methodology
 The project follows the standard **Data Science Life Cycle**:
 
 * **Data Processing:** Python (Pandas, Polars)
@@ -30,6 +30,7 @@ The project follows the standard **Data Science Life Cycle**:
 ##  Challenges
 * **Data Quality:** Addressed missing funding records and inconsistent manual entries.
 * **Data Imbalance:** High-value grants are sparse, which creates challenges for regression accuracy in outlier cases.
+![Project Dashboard](https://github.com/ZannatUSM/External-Grant-Performance-Monitoring-Dashboard-BJIM-Universiti-Sains-Malaysia/blob/main/External%20Grant%20Performance%20dashboard.png?raw=true)
 
 ##  Author
 * **Zannatul Sanzida** (P-COM0145/22)
